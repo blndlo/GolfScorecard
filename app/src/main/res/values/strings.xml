@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Golf Scorecard Reloaded</string>
+    <string name="hole_label_description">description for hole label</string>
+    <string name="hole_label_placeholder_text">Hole 10:</string>
+    <string name="score_placeholder">--</string>
+    <string name="score_label_description">text view to old actaul score</string>
+    <string name="add_button_description">add button description</string>
+    <string name="add_button_text">+</string>
+    <string name="subtract_button_description">subtract button text</string>
+    <string name="action_clear_strokes">Clear Strokes</string>
+</resources>
